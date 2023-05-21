@@ -1,0 +1,25 @@
+{
+  "name": "Aaein Zendegi",
+  "collegeName": "Ma`aref",
+  "numberOfUnits": 2,
+  "lessonNumber": 108,
+  "prerequisites": [],
+  "requirements": [],
+  "grade": "BACHELOR",
+  "time": {
+    "dayOfWeeks": [
+      "SATURDAY"
+    ],
+    "startHour": 14,
+    "endHour": 16,
+    "finalDayOfMonth": 20,
+    "finalMonth": 11,
+    "finalHour": 15
+  },
+  "term": 14002,
+  "numberOfGroup": 0,
+  "capacity": 80,
+  "takers": 0,
+  "studentsCode": [],
+  "professorCode": 300200106
+}

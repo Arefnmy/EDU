@@ -1,0 +1,28 @@
+{
+  "name": "Gosaste",
+  "collegeName": "Math",
+  "numberOfUnits": 3,
+  "lessonNumber": 103,
+  "prerequisites": [],
+  "requirements": [
+    100
+  ],
+  "grade": "DOCTORATE",
+  "time": {
+    "dayOfWeeks": [
+      "SATURDAY",
+      "SUNDAY"
+    ],
+    "startHour": 9,
+    "endHour": 10,
+    "finalDayOfMonth": 6,
+    "finalMonth": 11,
+    "finalHour": 10
+  },
+  "term": 14002,
+  "numberOfGroup": 0,
+  "capacity": 80,
+  "takers": 0,
+  "studentsCode": [],
+  "professorCode": 200300101
+}

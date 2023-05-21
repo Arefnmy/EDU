@@ -1,0 +1,31 @@
+{
+  "studentCode": 400100109,
+  "totalAverage": 0.0,
+  "supervisorCode": 300200106,
+  "entryYear": 1400,
+  "chooseLessonTime": null,
+  "grade": "BACHELOR",
+  "status": "STUDYING",
+  "lessonsCode": [],
+  "passedLesson": [],
+  "temporaryScores": {},
+  "finalScores": {},
+  "collegeName": "Ma`aref",
+  "lastEnter": {
+    "year": 999999999,
+    "month": "DECEMBER",
+    "dayOfMonth": 31,
+    "hour": 23,
+    "minutes": 59,
+    "second": 59
+  },
+  "username": "shsh",
+  "password": "shsh0",
+  "firstName": "Matin",
+  "lastName": "Jaani",
+  "email": "Matnshash@gmail.com",
+  "mobileNumber": "9234328728",
+  "nationalCode": "0039382930",
+  "requests": [],
+  "notifications": []
+}

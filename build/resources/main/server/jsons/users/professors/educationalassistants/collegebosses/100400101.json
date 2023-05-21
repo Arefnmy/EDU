@@ -1,0 +1,24 @@
+{
+  "professorCode": 100400101,
+  "roomNumber": "20B",
+  "degree": "ASSOCIATE_PROFESSOR",
+  "lessonsCode": [],
+  "collegeName": "Math",
+  "lastEnter": {
+    "year": 999999999,
+    "month": "DECEMBER",
+    "dayOfMonth": 31,
+    "hour": 23,
+    "minutes": 59,
+    "second": 59
+  },
+  "username": "boss1",
+  "password": "boss1",
+  "firstName": "Alireza",
+  "lastName": "Qane",
+  "email": "palisbos@gmail.com",
+  "mobileNumber": "9134899289",
+  "nationalCode": "4429923027",
+  "requests": [],
+  "notifications": []
+}

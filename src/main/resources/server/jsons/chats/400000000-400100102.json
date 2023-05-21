@@ -1,0 +1,21 @@
+{
+  "user1": 400000000,
+  "user2": 400100102,
+  "name": "400000000-400100102",
+  "messages": [
+    {
+      "sender": 400000000,
+      "type": "TEXT",
+      "text": "Hello to Students of MATH college!",
+      "media": null,
+      "time": {
+        "year": 2022,
+        "month": "AUGUST",
+        "dayOfMonth": 23,
+        "hour": 17,
+        "minutes": 48,
+        "second": 38
+      }
+    }
+  ]
+}

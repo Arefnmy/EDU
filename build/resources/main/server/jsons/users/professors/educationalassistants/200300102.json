@@ -1,0 +1,24 @@
+{
+  "professorCode": 200300102,
+  "roomNumber": "33A",
+  "degree": "FULL_PROFESSOR",
+  "lessonsCode": [],
+  "collegeName": "Physic",
+  "lastEnter": {
+    "year": 999999999,
+    "month": "DECEMBER",
+    "dayOfMonth": 31,
+    "hour": 23,
+    "minutes": 59,
+    "second": 59
+  },
+  "username": "bah",
+  "password": "2020",
+  "firstName": "Bahman",
+  "lastName": "Mahi",
+  "email": "bahiMEj@gmail.com",
+  "mobileNumber": "914729379",
+  "nationalCode": "4429985302",
+  "requests": [],
+  "notifications": []
+}

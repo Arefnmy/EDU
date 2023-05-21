@@ -1,0 +1,26 @@
+{
+  "professorCode": 300200105,
+  "roomNumber": "11C",
+  "degree": "FULL_PROFESSOR",
+  "lessonsCode": [
+    107
+  ],
+  "collegeName": "Ma`aref",
+  "lastEnter": {
+    "year": 999999999,
+    "month": "DECEMBER",
+    "dayOfMonth": 31,
+    "hour": 23,
+    "minutes": 59,
+    "second": 59
+  },
+  "username": "1356",
+  "password": "1356",
+  "firstName": "Movahhed",
+  "lastName": "Nejad",
+  "email": "movahedsdo@dds.co",
+  "mobileNumber": "9123032390",
+  "nationalCode": "444322901",
+  "requests": [],
+  "notifications": []
+}

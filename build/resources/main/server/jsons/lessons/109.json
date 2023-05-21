@@ -1,0 +1,25 @@
+{
+  "name": "Andishe",
+  "collegeName": "Ma`aref",
+  "numberOfUnits": 2,
+  "lessonNumber": 109,
+  "prerequisites": [],
+  "requirements": [],
+  "grade": "MASTER",
+  "time": {
+    "dayOfWeeks": [
+      "WEDNESDAY"
+    ],
+    "startHour": 15,
+    "endHour": 17,
+    "finalDayOfMonth": 20,
+    "finalMonth": 11,
+    "finalHour": 19
+  },
+  "term": 14002,
+  "numberOfGroup": 0,
+  "capacity": 40,
+  "takers": 0,
+  "studentsCode": [],
+  "professorCode": 300200106
+}

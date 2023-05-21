@@ -1,0 +1,27 @@
+{
+  "professorCode": 300200103,
+  "roomNumber": "14",
+  "degree": "ASSOCIATE_PROFESSOR",
+  "lessonsCode": [
+    104,
+    105
+  ],
+  "collegeName": "Physic",
+  "lastEnter": {
+    "year": 999999999,
+    "month": "DECEMBER",
+    "dayOfMonth": 31,
+    "hour": 23,
+    "minutes": 59,
+    "second": 59
+  },
+  "username": "ab",
+  "password": "a",
+  "firstName": "Mani",
+  "lastName": "Rezayi",
+  "email": "dafsdf@gmail.com",
+  "mobileNumber": "91050523220",
+  "nationalCode": "2134254632",
+  "requests": [],
+  "notifications": []
+}

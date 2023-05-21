@@ -1,0 +1,26 @@
+{
+  "name": "Riazi1",
+  "collegeName": "Math",
+  "numberOfUnits": 4,
+  "lessonNumber": 100,
+  "prerequisites": [],
+  "requirements": [],
+  "grade": "BACHELOR",
+  "time": {
+    "dayOfWeeks": [
+      "SATURDAY",
+      "MONDAY"
+    ],
+    "startHour": 8,
+    "endHour": 10,
+    "finalDayOfMonth": 10,
+    "finalMonth": 11,
+    "finalHour": 8
+  },
+  "term": 14002,
+  "numberOfGroup": 0,
+  "capacity": 400,
+  "takers": 0,
+  "studentsCode": [],
+  "professorCode": 300200101
+}

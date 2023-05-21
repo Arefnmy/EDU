@@ -1,0 +1,31 @@
+{
+  "studentCode": 99100106,
+  "totalAverage": 0.0,
+  "supervisorCode": 300200104,
+  "entryYear": 1399,
+  "chooseLessonTime": null,
+  "grade": "MASTER",
+  "status": "GRADUATING",
+  "lessonsCode": [],
+  "passedLesson": [],
+  "temporaryScores": {},
+  "finalScores": {},
+  "collegeName": "Physic",
+  "lastEnter": {
+    "year": 999999999,
+    "month": "DECEMBER",
+    "dayOfMonth": 31,
+    "hour": 23,
+    "minutes": 59,
+    "second": 59
+  },
+  "username": "s4",
+  "password": "s4",
+  "firstName": "Sina",
+  "lastName": "Amooyi",
+  "email": "sini@yahoo.com",
+  "mobileNumber": "9103230223",
+  "nationalCode": "4444442323",
+  "requests": [],
+  "notifications": []
+}

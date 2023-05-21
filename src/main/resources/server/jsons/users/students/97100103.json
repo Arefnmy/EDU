@@ -1,0 +1,31 @@
+{
+  "studentCode": 97100103,
+  "totalAverage": 0.0,
+  "supervisorCode": 300200102,
+  "entryYear": 1397,
+  "chooseLessonTime": null,
+  "grade": "DOCTORATE",
+  "status": "GRADUATING",
+  "lessonsCode": [],
+  "passedLesson": [],
+  "temporaryScores": {},
+  "finalScores": {},
+  "collegeName": "Math",
+  "lastEnter": {
+    "year": 999999999,
+    "month": "DECEMBER",
+    "dayOfMonth": 31,
+    "hour": 23,
+    "minutes": 59,
+    "second": 59
+  },
+  "username": "1111",
+  "password": "0000",
+  "firstName": "Sadat",
+  "lastName": "Amiri",
+  "email": "amiri@outlook.com",
+  "mobileNumber": "9134203949",
+  "nationalCode": "34424442989",
+  "requests": [],
+  "notifications": []
+}

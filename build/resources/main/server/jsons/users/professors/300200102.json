@@ -1,0 +1,27 @@
+{
+  "professorCode": 300200102,
+  "roomNumber": "31B",
+  "degree": "FULL_PROFESSOR",
+  "lessonsCode": [
+    101,
+    102
+  ],
+  "collegeName": "Math",
+  "lastEnter": {
+    "year": 999999999,
+    "month": "DECEMBER",
+    "dayOfMonth": 31,
+    "hour": 23,
+    "minutes": 59,
+    "second": 59
+  },
+  "username": "mt",
+  "password": "mt",
+  "firstName": "Mojtaba",
+  "lastName": "Tefagh",
+  "email": "MTfgh@gmail.dfo",
+  "mobileNumber": "91943897060",
+  "nationalCode": "4432118492",
+  "requests": [],
+  "notifications": []
+}

@@ -1,0 +1,27 @@
+{
+  "professorCode": 300200106,
+  "roomNumber": "10A",
+  "degree": "ASSOCIATE_PROFESSOR",
+  "lessonsCode": [
+    108,
+    109
+  ],
+  "collegeName": "Ma`aref",
+  "lastEnter": {
+    "year": 999999999,
+    "month": "DECEMBER",
+    "dayOfMonth": 31,
+    "hour": 23,
+    "minutes": 59,
+    "second": 59
+  },
+  "username": "ch",
+  "password": "111",
+  "firstName": "Mehraneh",
+  "lastName": "Chatrchi",
+  "email": "mhrch@asd.abs",
+  "mobileNumber": "9219283920",
+  "nationalCode": "2293382939",
+  "requests": [],
+  "notifications": []
+}
